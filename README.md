@@ -1,3 +1,3 @@
 # Diff-EQ
 
-Notes
+Reading is fun
